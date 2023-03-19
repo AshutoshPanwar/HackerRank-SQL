@@ -1,0 +1,1 @@
+select AVG(population) from CITY WHERE DISTRICT = 'California';

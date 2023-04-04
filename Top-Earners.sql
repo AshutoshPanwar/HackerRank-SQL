@@ -1,0 +1,1 @@
+select months * salary, count(*) from Employee Group by months*salary DESC limit 1;
